@@ -13,7 +13,6 @@
 ## How to Use:
 1. **Select the drive** you want to modify from the drop-down menu.
 2. Click the **Change Serial** button to change the serial number.
-3. Use the **Revert Original Serial** button to restore the original serial number.
 
 ---
 
